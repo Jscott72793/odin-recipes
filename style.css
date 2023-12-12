@@ -1,0 +1,19 @@
+h1 {
+    font-size: 75px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: orange;
+    text-align: center;
+}
+
+ul {
+    font-weight: bold;
+    text-align: center;
+}
+
+.list-child-odd {
+    background-color: aliceblue;
+}
+
+.list-child-even {
+    background-color: lightgray;
+}
